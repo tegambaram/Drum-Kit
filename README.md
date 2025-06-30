@@ -43,5 +43,6 @@ CSS
 JavaScript
 
 📸 Preview
-(You can add a screenshot here if available)
-![Drum Kit Screenshot](screenshot.png)
+
+(https://github.com/user-attachments/assets/186f6b74-b38d-4593-9d8d-f60909be21b9)
+
