@@ -29,7 +29,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/drum-kit.git
+git clone (https://github.com/tegambaram/Drum-Kit.git)
 cd drum-kit
 Open index.html in your browser
 
